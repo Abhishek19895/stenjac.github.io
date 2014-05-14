@@ -6,8 +6,8 @@ body {
     color: rgba(26, 26, 26, .7);
     line-height: 1.6em; /* this increases the height of each line, great for readibility */
     padding: 50px;
-    /*border: 0px solid rgba(26, 26, 26, .7);*/
-    /*margin: 30px;*/ 
+    border: 4px solid rgba(26, 26, 26, .7);
+    margin: 30px; 
 }
 
 a {
