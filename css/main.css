@@ -1,12 +1,12 @@
 body {
-	background: #FFF;
-    font-family: Helvetica, Arial, sans-serif; /* serif would be the 2nd font picked up by the browser if Georgia was not available */
+    background: #FFF;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* serif would be the 2nd font picked up by the browser if Georgia was not available */
     font-size: 18px;
     font-weight: normal;
     color: rgba(26, 26, 26, .7);
     line-height: 1.6em; /* this increases the height of each line, great for readibility */
     padding: 50px;
-    border: 5px solid rgba(26, 26, 26, .7);
+    border: 0px solid rgba(26, 26, 26, .7);
     margin: 30px; 
 }
 
