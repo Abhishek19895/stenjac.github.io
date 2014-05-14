@@ -1,0 +1,95 @@
+body {
+	background: #FFF;
+    font-family: Helvetica, Arial, sans-serif; /* serif would be the 2nd font picked up by the browser if Georgia was not available */
+    font-size: 18px;
+    font-weight: normal;
+    color: rgba(26, 26, 26, .7);
+    line-height: 1.6em; /* this increases the height of each line, great for readibility */
+    padding: 50px;
+    border: 5px solid rgba(26, 26, 26, .7);
+    margin: 30px; 
+}
+
+a {
+	color:#3F54E0;
+}
+
+img.portfolio {
+	border:1px solid rgba(26, 26, 26, .7);
+	margin: 0px;
+	width: 90%;
+	float:left;
+}
+img.icon {
+	float:left;
+	margin: 0px;
+	padding: 2px;
+	width: 45px;
+	height: 45px;
+}
+h1 {
+	margin-top: 0px;
+	text-align: left;
+	font-weight: bold;
+	color: rgba(26, 26, 26, .7);
+}
+h2 {
+	font-weight: normal;
+	font-size: 1em;
+	color: rgba(26, 26, 26, .7);
+}
+h3 {
+	font-weight: bold;
+	font-size: 1em;
+	color: rgba(26, 26, 26, .7);
+	margin-top: 30px;
+}
+li {
+	font-size: 0.8em;
+}
+p {
+	font-size: 0.8em;
+}
+span.alignleft {
+	float: left;
+}
+span.alignright {
+	float: right;
+}
+div.bar {
+	display: inline-block;
+	width: 6px;
+	margin-right: 2px;
+	background-color: rgba(26, 26, 26, .7);
+}
+hr {
+	border: 1px solid rgba(26, 26, 26, .7);
+	margin: 30px 0;
+}
+div#idheader {
+	clear: left;
+    height: 180px;
+    width: 100%;
+    padding: 0px;
+}
+div#containertop {
+	margin-top: 0px;
+	float: left;
+	width: 100%;
+	margin-bottom: 0px;
+}
+div#containerbottom {
+	float: left;
+	width: 100%;
+	margin-bottom: 70px;
+}
+.class1 {
+	margin-top: 0px;
+	float: left;
+	width: 33.33%;
+}
+footer {
+	margin-top: 300px;
+	text-align: center;
+	font-size: 0.7em;
+}
