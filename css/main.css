@@ -80,12 +80,13 @@ div#containerbottom {
 	width: 100%;
 	margin-bottom: 70px;
 }
-@media screen and (min-width: 600px) { 
+@media screen and (min-width: 620px) { 
 	span.alignright {
 	float: right;
 }
 	.class1 {
 	margin-top: 20px;
+	padding-top: 20px;
 	float: left;
 	width: 33.33%;
 }
