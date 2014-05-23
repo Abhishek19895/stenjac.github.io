@@ -80,17 +80,30 @@ div#containerbottom {
 	width: 100%;
 	margin-bottom: 70px;
 }
-@media screen and (min-width: 620px) { 
+@media screen and (min-width: 700px) { 
+	span.alignleft {
+	float: left;
+}
 	span.alignright {
 	float: right;
 }
 	.class1 {
-	margin-top: 20px;
-	padding-top: 20px;
+	margin-top: 0px;
 	float: left;
 	width: 33.33%;
 }
 	}
+@media screen and (max-width: 700px) { 
+	span.alignleft {
+	display: block;
+}
+	span.alignright {
+	display: block;
+}
+	.class1 img {
+	margin-top: 20px;
+}
+	}	
 footer {
 	margin-top: 300px;
 	text-align: center;
