@@ -32,7 +32,7 @@ h1 {
 	text-align: left;
 	font-weight: bold;
 	color: rgba(26, 26, 26, .7);
-	line-height: 1.2em;
+	line-height: 130%;
 }
 h2 {
 	font-weight: normal;
@@ -50,9 +50,6 @@ li {
 }
 p {
 	font-size: 0.8em;
-}
-span.alignleft {
-	float: left;
 }
 div.bar {
 	display: inline-block;
